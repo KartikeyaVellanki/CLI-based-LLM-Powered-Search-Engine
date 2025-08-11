@@ -1,0 +1,8 @@
+transformers
+ollama
+torch
+pillow
+numpy
+sentence-transformers
+datasets
+torchaudio
